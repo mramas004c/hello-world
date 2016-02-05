@@ -1,4 +1,4 @@
 # hello-world
 # New world
-# Infor world
+# Info world
 Demo repository
